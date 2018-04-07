@@ -31,6 +31,15 @@ jdk
 http://mikzhang.iteye.com/blog/1918060
 
 idea
+/opt
 
 maven
+/opt
 ref: http://mikzhang.iteye.com/blog/2050287
+
+sudo apt install mysql-server mysql-client
+ref: https://www.cnblogs.com/boshen-hzb/p/5889633.html
+
+redis
+ref: redis README
+ref: https://www.cnblogs.com/langtianya/p/5187681.html
