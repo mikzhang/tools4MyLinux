@@ -10,3 +10,26 @@ sudo apt install git
 
 sudo apt install python3.6
 ref: https://mikzhang.github.io/2017/09/19/Python-switch-2-latest-python3/
+
+sudo apt install filezilla
+ref: https://filezilla-project.org/
+
+sudo apt install rar
+sudo apt install unrar
+
+sudo apt install vim-gnome
+
+vundle
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+sudo apt install gcc
+
+Exuberant Ctags
+ref: http://ctags.sourceforge.net/
+
+jdk
+http://mikzhang.iteye.com/blog/1918060
+
+idea
+
+maven
