@@ -33,3 +33,4 @@ http://mikzhang.iteye.com/blog/1918060
 idea
 
 maven
+ref: http://mikzhang.iteye.com/blog/2050287
