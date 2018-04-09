@@ -43,3 +43,10 @@ ref: https://www.cnblogs.com/boshen-hzb/p/5889633.html
 redis
 ref: redis README
 ref: https://www.cnblogs.com/langtianya/p/5187681.html
+Selected config:
+Port           : 6379
+Config file    : /etc/redis/6379.conf
+Log file       : /var/log/redis_6379.log
+Data dir       : /var/lib/redis/6379
+Executable     : /usr/local/bin/redis-server
+Cli Executable : /usr/local/bin/redis-cli
