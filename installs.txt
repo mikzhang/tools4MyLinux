@@ -50,3 +50,7 @@ Log file       : /var/log/redis_6379.log
 Data dir       : /var/lib/redis/6379
 Executable     : /usr/local/bin/redis-server
 Cli Executable : /usr/local/bin/redis-cli
+
+wps office
+ref: http://community.wps.cn/download/
+sudo dpkg -i wps-office_10.1.0.5672_a21_i386.deb
