@@ -24,6 +24,8 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 sudo apt install gcc
 
+sudo apt install cmake
+
 Exuberant Ctags
 ref: http://ctags.sourceforge.net/
 
