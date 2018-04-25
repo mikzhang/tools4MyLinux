@@ -55,3 +55,7 @@ wps office
 ref: http://community.wps.cn/download/
 sudo dpkg -i wps-office_10.1.0.5672_a21_i386.deb
 https://www.cnblogs.com/liangml/p/5969404.html
+
+
+wine
+ref: https://wiki.winehq.org/Ubuntu
