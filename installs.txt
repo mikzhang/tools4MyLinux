@@ -60,3 +60,7 @@ https://www.cnblogs.com/liangml/p/5969404.html
 wine
 ref: https://wiki.winehq.org/Ubuntu
 https://blog.csdn.net/gatieme/article/details/52770494
+
+
+mysql workbench
+https://dev.mysql.com/downloads/workbench/
