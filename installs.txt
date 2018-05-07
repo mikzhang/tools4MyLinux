@@ -45,6 +45,10 @@ ref: http://mikzhang.iteye.com/blog/2050287
 
 sudo apt install mysql-server mysql-client
 ref: https://www.cnblogs.com/boshen-hzb/p/5889633.html
+Starting and Stopping the MySQL Server
+sudo service mysql status
+sudo service mysql stop
+sudo service mysql start
 
 redis
 ref: redis README
