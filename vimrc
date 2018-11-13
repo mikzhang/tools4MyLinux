@@ -10,6 +10,7 @@
 " Uncomment the next line to make Vim more Vi-compatible
 " NOTE: debian.vim sets 'nocompatible'.  Setting 'compatible' changes numerous
 " options, so any other options should be set AFTER setting 'compatible'.
+" NOTE: on MacOs, sets 'nocompatible'.
 set compatible
 
 " This line should not be removed as it ensures that various options are
